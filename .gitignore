@@ -1,0 +1,12 @@
+# Ignore all log files
+*.log
+
+#ignoring all environment
+.env
+.venv
+venv
+env
+
+# removing pycache
+helper/__pycache__
+__pycache__
